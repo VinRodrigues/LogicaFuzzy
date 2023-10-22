@@ -3,7 +3,7 @@
 Este repositório contém um modelo de lógica fuzzy desenvolvido em Python para estimar o nível de obesidade com base nos níveis de atividade física e no consumo de comida. O modelo utiliza a biblioteca scikit-fuzzy para implementar a lógica fuzzy e oferece uma solução intuitiva para a análise do comportamento do sistema.
 
 # Pré-requisitos
-- Python 3.x
+- Python 3
 - Biblioteca numpy
 - Biblioteca scikit-fuzzy
 - Biblioteca matplotlib
